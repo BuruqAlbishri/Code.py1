@@ -1,4 +1,4 @@
-# Code.py1 [ Write with Morse code ].
+# Code.Python [ Write with Morse code ].
 A='.-'
 B='-...'
 C='-.-.'
